@@ -1,0 +1,2 @@
+# AzureStaticWebApp
+Github to Azure
